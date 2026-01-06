@@ -2,6 +2,9 @@
 
 An AI-powered chatbot that allows users to interact with a consultant database using natural language. The system converts user questions into SQL queries, retrieves relevant data, and generates clear, human-readable recommendations.
 
+![1756852803260](https://github.com/user-attachments/assets/4c0e970d-848b-43af-957b-f5be40f93c00)
+
+
 ---
 
 ## 🚀 Features
@@ -38,6 +41,7 @@ requirements.txt
 ```bash
 pip install -r requirements.txt
 python app.py
+
 
 
 
