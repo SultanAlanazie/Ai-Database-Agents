@@ -1,4 +1,4 @@
-# Khabeer AI – Database Agent 🤖
+# Khabeer – AI Database Agent 🤖
 
 An AI-powered chatbot that allows users to interact with a consultant database using natural language. The system converts user questions into SQL queries, retrieves relevant data, and generates clear, human-readable recommendations.
 
@@ -38,5 +38,6 @@ requirements.txt
 ```bash
 pip install -r requirements.txt
 python app.py
+
 
 
