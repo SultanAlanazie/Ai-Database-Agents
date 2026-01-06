@@ -16,27 +16,20 @@ An AI-powered chatbot that allows users to interact with a consultant database u
 
 ## 🏗️ Project Structure
 
-Notebook/
+Notebook/.
 
-└── ColabGradioTest.ipynb
-
-data/
-
-└── sqldb.db
-
-static/
-
-└── styles.css
-
-templates/
-
-└── chatbot.html
-
-.env
-.gitignore
-README.md
-app.py
-requirements.txt
+└── ColabGradioTest.ipynb  
+data/  
+└── sqldb.db  
+static/  
+└── styles.css  
+templates/  
+└── chatbot.html  
+.env  
+.gitignore  
+README.md  
+app.py  
+requirements.txt  
 
 ---
 
@@ -45,4 +38,5 @@ requirements.txt
 ```bash
 pip install -r requirements.txt
 python app.py
+
 
