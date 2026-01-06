@@ -1,11 +1,13 @@
+![11](https://github.com/user-attachments/assets/9d2dae1d-e8fb-42f7-9ba2-206e0cd87488)
+
+
 # Khabeer – AI Database Agent 🤖
 
 An AI-powered chatbot that allows users to interact with a consultant database using natural language. The system converts user questions into SQL queries, retrieves relevant data, and generates clear, human-readable recommendations.
 
 
 
----![11](https://github.com/user-attachments/assets/9d2dae1d-e8fb-42f7-9ba2-206e0cd87488)
-
+---
 
 ## 🚀 Features
 
